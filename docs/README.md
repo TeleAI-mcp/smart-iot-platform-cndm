@@ -1,0 +1,1 @@
+Docs module for Smart IoT Platform
